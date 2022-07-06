@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolinhaTitTic\bin\Debug\ExerciciosProfRomulo.EscolinhaTitTic.exe.config
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolinhaTitTic\bin\Debug\ExerciciosProfRomulo.EscolinhaTitTic.exe
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolinhaTitTic\bin\Debug\ExerciciosProfRomulo.EscolinhaTitTic.pdb
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolinhaTitTic\obj\Debug\ExerciciosProfRomulo.EscolinhaTicTic.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolinhaTitTic\obj\Debug\ExerciciosProfRomulo.EscolinhaTicTic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolinhaTitTic\obj\Debug\ExerciciosProfRomulo.EscolinhaTicTic.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolinhaTitTic\obj\Debug\ExerciciosProfRomulo.EscolinhaTitTic.exe
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.EscolinhaTitTic\obj\Debug\ExerciciosProfRomulo.EscolinhaTitTic.pdb
